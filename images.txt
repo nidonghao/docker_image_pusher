@@ -1,6 +1,6 @@
 whyour/qinglong:python3.10
 #好像不支持两个版本的
-zjk2017/qinglong:2.11.3
+whyour/qinglong:2.11.3
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
