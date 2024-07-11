@@ -1,4 +1,6 @@
 # Docker Images Pusher
+访问统计
+![img](https://profile-counter.glitch.me/zjk2017/count.svg)
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
 支持DockerHub, gcr.io, k8s.io, quay.io, ghcr.io等任意仓库
