@@ -1,6 +1,10 @@
+#ap版本有某些域名不通
 #whyour/qinglong:python3.10
-#好像不支持两个版本的
+#低版本
 #whyour/qinglong:2.11.3
+#debian版本
+whyour/qinglong:debian-python3.10
+#ocr
 xzxxn777/ddddocr
 #支持私库 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
