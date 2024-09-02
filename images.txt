@@ -12,4 +12,4 @@ xzxxn777/ddddocr
 nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xzxxn777/ddddocr
+xzxxn777/ddddocr:latest
